@@ -27,10 +27,3 @@ function sayHiToGrandma(string) {
   return "I love you, too."
   
 }
-
-return "I made cookies"
-
-}
-
-
-
