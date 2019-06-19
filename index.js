@@ -28,4 +28,6 @@ function sayHiToGrandma(string) {
   
 }
 
+return "I made cookies"
+
 
